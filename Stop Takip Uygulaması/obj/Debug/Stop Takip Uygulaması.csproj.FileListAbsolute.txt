@@ -1,0 +1,44 @@
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Stop Takip Uygulaması\Stop Takip Uygulaması\bin\Debug\Stop Takip Uygulaması.exe
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Stop Takip Uygulaması\Stop Takip Uygulaması\bin\Debug\Stop Takip Uygulaması.pdb
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop Takip Uygulaması.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop_Takip_Uygulaması.Properties.Resources.resources
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop Takip Uygulaması.csproj.GenerateResource.Cache
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop Takip Uygulaması.exe
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop Takip Uygulaması.pdb
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop_Takip_Uygulaması.AnaForm.resources
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop Takip Uygulaması.exe.licenses
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop_Takip_Uygulaması.Kategoriler.resources
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop_Takip_Uygulaması.Urunler.resources
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Stop Takip Uygulaması\Stop Takip Uygulaması\bin\Debug\Stop Takip Uygulaması.exe.config
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop_Takip_Uygulaması.Yardim.resources
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop_Takip_Uygulaması.Yazdir.resources
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop_Takip_Uygulaması.Veritabani.resources
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop_Takip_Uygulaması.Raporlama.resources
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Stop Takip Uygulaması\Stop Takip Uygulaması\bin\Debug\Stop Takip Uygulaması.exe.config
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop Takip Uygulaması.exe
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop Takip Uygulaması.pdb
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Stop Takip Uygulaması\Stop Takip Uygulaması\bin\Debug\Stop Takip Uygulaması.exe
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Stop Takip Uygulaması\Stop Takip Uygulaması\bin\Debug\Stop Takip Uygulaması.pdb
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop Takip Uygulaması.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop_Takip_Uygulaması.AnaForm.resources
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop_Takip_Uygulaması.Kategoriler.resources
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop_Takip_Uygulaması.Properties.Resources.resources
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop_Takip_Uygulaması.Raporlama.resources
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop_Takip_Uygulaması.Urunler.resources
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop_Takip_Uygulaması.Veritabani.resources
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop_Takip_Uygulaması.Yardim.resources
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop_Takip_Uygulaması.Yazdir.resources
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop Takip Uygulaması.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop Takip Uygulaması.exe.licenses
+C:\Users\enes_\Desktop\Stop Takip Uygulaması\Stop Takip Uygulaması\bin\Debug\Stop Takip Uygulaması.exe.config
+C:\Users\enes_\Desktop\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop Takip Uygulaması.exe
+C:\Users\enes_\Desktop\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop Takip Uygulaması.pdb
+C:\Users\enes_\Desktop\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop Takip Uygulaması.csprojResolveAssemblyReference.cache
+C:\Users\enes_\Desktop\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop_Takip_Uygulaması.AnaForm.resources
+C:\Users\enes_\Desktop\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop_Takip_Uygulaması.Kategoriler.resources
+C:\Users\enes_\Desktop\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop_Takip_Uygulaması.Properties.Resources.resources
+C:\Users\enes_\Desktop\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop_Takip_Uygulaması.Raporlama.resources
+C:\Users\enes_\Desktop\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop_Takip_Uygulaması.Urunler.resources
+C:\Users\enes_\Desktop\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop_Takip_Uygulaması.Veritabani.resources
+C:\Users\enes_\Desktop\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop_Takip_Uygulaması.Yardim.resources
+C:\Users\enes_\Desktop\Stop Takip Uygulaması\Stop Takip Uygulaması\obj\Debug\Stop Takip Uygulaması.csproj.GenerateResource.Cache
